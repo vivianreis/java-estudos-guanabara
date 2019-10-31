@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/VotacaoSwing/nbproject/private/
+/VotacaoSwing/build/
+/TipoAnimal/nbproject/private/
+/TipoAnimal/build/
+/TipoAnimalSwitch/nbproject/private/
+/TipoAnimalSwitch/build/
+/Contador01/nbproject/private/
+/Contador01/build/
+/Contador02/nbproject/private/
+/TelaContador/nbproject/private/
+/TelaContador/build/
